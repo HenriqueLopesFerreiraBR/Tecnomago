@@ -1,0 +1,39 @@
+.cadAtivos{
+    display: flex;
+    flex-direction: column;
+
+}
+.cadAtivos h1{
+    width: 30%;
+    margin-left: 13%;
+
+}
+
+.cadAtivos form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cadAtivos label{
+    margin-top: 9px;
+}
+
+.cadAtivos input {
+    width: 50%;
+    border-radius: 6px;
+}
+
+.cadAtivos select {
+    width: 30%;
+    border-radius: 6px;
+}
+
+.cadAtivos button{
+    margin-top: 25px;
+    width: 10%;
+    height: 30%;
+    margin-left: 17%;
+    border-radius: 6px;
+    font-size: 16px;
+}

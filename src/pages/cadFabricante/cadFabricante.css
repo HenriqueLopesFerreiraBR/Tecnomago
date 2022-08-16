@@ -1,0 +1,47 @@
+.cadFabricante{
+    display: flex;
+    flex-direction: column;
+
+}
+.cadFabricante h1{
+    width: 30%;
+    margin-left: 13%;
+
+}
+
+.cadFabricante form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cadFabricante label{
+    margin-top: 9px;
+}
+
+.cadFabricante input {
+    width: 50%;
+    border-radius: 6px;
+}
+
+.cadFabricante select {
+    width: 30%;
+    border-radius: 6px;
+}
+
+.cadFabricante button{
+    margin-top: 25px;
+    width: 10%;
+    height: 30%;
+    margin-left: 17%;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.cadFabricante textarea{
+    margin-top: 15px;
+    width: 50%;
+    height: 80px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,59 @@
+.login {
+    height: calc(106vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(../../components/image/telaLogin.webp);
+    align-items: center;
+    background-size: auto;
+  }
+  .login a{
+      text-decoration: none;
+      color: white;
+  }
+  
+  .loginTitle {
+    font-size: 50px;
+    color: white;
+  }
+  
+  .loginForm {
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+  }
+  
+  .loginForm > label {
+    margin: 10px 0;
+  }
+  
+  .loginForm > input {
+    padding: 10px;
+    background-color: white;
+    border: none;
+  }
+  
+   .loginbutton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: deepskyblue;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+  } 
+  
+   .registerButton {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    cursor: pointer;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+  } 
+  
