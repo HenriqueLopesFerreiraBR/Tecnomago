@@ -1,0 +1,47 @@
+.soliciCompras{
+    display: flex;
+    flex-direction: column;
+
+}
+.soliciCompras h1{
+    width: 30%;
+    margin-left: 13%;
+
+}
+
+.soliciCompras form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.soliciCompras label{
+    margin-top: 9px;
+}
+
+.soliciCompras input {
+    width: 50%;
+    border-radius: 6px;
+}
+
+.soliciCompras select {
+    width: 30%;
+    border-radius: 6px;
+}
+
+.soliciCompras button{
+    margin-top: 25px;
+    width: 10%;
+    height: 30%;
+    margin-left: 17%;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.soliciCompras textarea{
+    margin-top: 15px;
+    width: 50%;
+    height: 80px;
+    border-radius: 5px;
+
+}

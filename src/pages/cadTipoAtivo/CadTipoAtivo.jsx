@@ -3,7 +3,7 @@ import './cadTipoAtivo.css'
 export default function CadTipoAtivo() {
   return (
     <div className="cadTipoAtivo">
-      <form action="" className="formTipoAtivos">
+      <form action="" className="formAtivos">
         <label for="nome">Nome</label>
         <input
           type="text"

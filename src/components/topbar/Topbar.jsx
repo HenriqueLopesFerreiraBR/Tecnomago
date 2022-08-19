@@ -20,7 +20,7 @@ export default function Topbar() {
         </div>
         <div className="topCenter ">
             <ul className="topList">
-                <li className="topListItem "> Inventario de equipamentos</li>
+                <li className="topListItem"> Inventario de equipamentos</li>
                 <li className="topListItem"> Ativos de T.I</li>
                 <li className="topListItem"> Registro de atualizações</li>
                 <li className="topListItem"> Serviços das impressoras </li>
