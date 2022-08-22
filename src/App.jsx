@@ -4,13 +4,15 @@ import CadAtivos from './pages/cadAtivo/CadAtivos'
 import CadTipoAtivos from './pages/cadTipoAtivo/CadTipoAtivo'
 import CadFabricante from './pages/cadFabricante/CadFabricante'
 import SoliciCompras from './pages/soliciCompras/SoliciCompras'
+import ServicosToner from './pages/toner/ServicoToner'
+import Equipamentos from './pages/equipamentos/Equipamentos'
 import Topbar from './components/topbar/Topbar'
 
 function App() {
   return (
     <div className="App">
       <Topbar />
-      <SoliciCompras />
+      <Equipamentos />
     </div>
   );
 }

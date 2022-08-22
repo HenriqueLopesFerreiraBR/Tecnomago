@@ -1,0 +1,31 @@
+.equipamentos{
+align-items: center;
+display: flex;
+flex-direction: column;
+}
+
+.equipamentos table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.equipamentos  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+.equipamentos tr:hover {background-color:dodgerblue}
+
+
+.equipamentos button{
+    margin: 3px;
+    border-radius: 8px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.equipamentos button:hover{
+    background-color: green;
+    color: white;
+}

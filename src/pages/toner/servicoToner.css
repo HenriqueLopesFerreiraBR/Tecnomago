@@ -1,0 +1,49 @@
+.servicoToner{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.servicoToner h1{
+    width: 30%;
+    margin-left: 13%;
+
+}
+
+.servicoToner form{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.servicoToner label{
+    margin-top: 9px;
+}
+
+.servicoToner input {
+    width: 50%;
+    border-radius: 6px;
+}
+
+.servicoToner select {
+    width: 30%;
+    border-radius: 6px;
+}
+
+.servicoToner button{
+    margin-top: 25px;
+    width: 10%;
+    height: 30%;
+    margin-left: 17%;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.servicoToner textarea{
+    margin-top: 15px;
+    width: 50%;
+    height: 80px;
+    border-radius: 5px;
+
+}
